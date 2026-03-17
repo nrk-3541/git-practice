@@ -1,4 +1,8 @@
 this is to check the git
 this is to check the config command
 this is to check branch stratergy
-this is to check the commits done multiple times
+this is to check the commits done multiple time
+<<<<<<< HEAD
+
+=======
+>>>>>>> main

@@ -1,6 +1,2 @@
 this is to check the merge conflict occures or not
-<<<<<<< Updated upstream
-=======
 merge conflict is not happening
->>>>>>> Stashed changes
-

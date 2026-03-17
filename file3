@@ -1,3 +1,3 @@
 this is to check the os
-now merge conflict will happen
+merge conflict isnt happening
 now the merge conflict will occur because i am changing the line in main branch but the original line is already commitited in the developer branch

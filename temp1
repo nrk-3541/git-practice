@@ -1,3 +1,4 @@
 after creating a file in the branch and creating another branch from it and modifying the same peice of code in the another branch and when we try to merge the both branches
 after one changes the file content and commits it if another guy in the another branch tries to change the same line of code and commits and tries to merge then merge conflict will happen
-after creating a file in the branch and creating another branch from it and modifying the same peice of code in the another branch and when we try to merge the both branches merge conflict will occur
+after creating a file in the branch and creating another branch from it and modifying the same peice of code in the another branch and when we try to merge the both branches 
+merge conflict will occur

@@ -1,0 +1,2 @@
+this is to check the merge conflict
+after creating a file in the branch and creating another branch from it and modifying the same peice of code in the another branch and when we try to merge the both branches merge conflict will occur
